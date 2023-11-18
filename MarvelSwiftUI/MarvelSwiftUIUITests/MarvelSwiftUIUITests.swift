@@ -1,13 +1,13 @@
 //
-//  MarvelAppUITests.swift
-//  MarvelAppUITests
+//  MarvelSwiftUIUITests.swift
+//  MarvelSwiftUIUITests
 //
 //  Created by Gabriel Castro on 18/11/23.
 //
 
 import XCTest
 
-final class MarvelAppUITests: XCTestCase {
+final class MarvelSwiftUIUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

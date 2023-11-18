@@ -1,6 +1,6 @@
 //
-//  MarvelAppApp.swift
-//  MarvelApp
+//  MarvelSwiftUIApp.swift
+//  MarvelSwiftUI
 //
 //  Created by Gabriel Castro on 18/11/23.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct MarvelAppApp: App {
+struct MarvelSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

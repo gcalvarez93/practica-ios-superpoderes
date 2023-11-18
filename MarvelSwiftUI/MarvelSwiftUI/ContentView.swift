@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  MarvelApp
+//  MarvelSwiftUI
 //
 //  Created by Gabriel Castro on 18/11/23.
 //
